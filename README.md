@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aditya65143
-- 👀 I’m interested in computer 
-- 🌱 I’m currently learning in Haldia institute of technology in (West Bengal). I am pursuing my Bachelor's in Computer Science and Engineering(currently in 2ndyear. 
+- 👀 I’m interested to learn software Engineering.
+- 🌱 I’m currently learning in Haldia institute of technology in (West Bengal). I am pursuing my Bachelor's in Computer Science and Engineering(currently in 3rd year. 
 - 💞️ I’m looking to collaborate on Linkedin
 
 <!---
